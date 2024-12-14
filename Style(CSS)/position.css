@@ -1,0 +1,43 @@
+.name{
+    font-weight: bold;
+    position: absolute;
+    top: 50px;
+    left: 475px;
+}
+
+.lang{
+    color: darkorange;
+    position:absolute;
+    right: 140px;
+}
+
+.mo{
+    color: darkorange;
+    position: absolute;
+    right: 75px;
+}
+
+.tra{
+    color: darkorange;
+    position: absolute;
+    right: 15px;
+}
+
+
+.picture{
+    position: absolute;
+    top: 150px;
+    left: 200px;
+}
+
+.contents{
+    position: absolute;
+    top: 475px;
+    right: 220px;
+}
+
+.laie{
+    position: absolute;
+    left: 200px;
+    top: 475px;
+}
